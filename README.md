@@ -1,4 +1,8 @@
 # quickbooks-desktop-xml-request-processor
+# Why?
+For pure python Quickbooks desktop integration.
+Seems like a language that specializes in data would be a great for an accountant application that specializes in data.
+
 
 ![class_rp](https://github.com/Donny-GUI/quickbooks-desktop-xml-request-processor/assets/108424001/462c7888-545c-4775-921c-380b1a097d17)
 
